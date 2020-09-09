@@ -1,7 +1,7 @@
 # Hi, I'm Artem 👋
 ![](https://komarev.com/ghpvc/?username=ArtemFrantsiian)
 
-![Personal Image](./personal_info.png?raw=true)
+![Personal Image](https://raw.githubusercontent.com/ArtemFrantsiian/ArtemFrantsiian/master/personal_info.png)
 
 I'm a professional software engineer, with more than 5 years of experience.
 I always focus to find the best solution for existing challenges and I like complicated tasks. 🚀
