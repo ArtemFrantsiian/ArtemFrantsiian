@@ -23,8 +23,8 @@ I'm looking for the company that shares my worths and ambitions.
 Open for relocation 🚙
 
 ## How to reach me 📫  
-- ![LinkedIn](https://www.linkedin.com/in/artem-frantsiian/)
-- ![artemfrantsiian@gmail.com](artemfrantsiian@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/artem-frantsiian/)
+- [artemfrantsiian@gmail.com](artemfrantsiian@gmail.com)
 
 <!--
 **ArtemFrantsiian/ArtemFrantsiian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
