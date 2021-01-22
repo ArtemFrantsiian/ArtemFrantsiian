@@ -18,9 +18,6 @@ I have a huge experience in software engineering, which consists of but is not l
 The maximum team size that I led on was 36 persons.
 
 My goal is to be valuable for this world, so my work have to be helpful for people. 🔥
-I'm looking for the company that shares my worths and ambitions.
-
-Open for relocation 🚙
 
 ## How to reach me 📫  
 - [LinkedIn](https://www.linkedin.com/in/artem-frantsiian/)
